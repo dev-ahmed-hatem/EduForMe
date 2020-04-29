@@ -1,0 +1,127 @@
+*
+{
+    margin: 0px
+}
+.header
+{
+    background-color: dimgray/*midnightblue*/;
+    padding: 21px;
+}
+.header:hover
+{
+    background-color:black; 
+}
+.header p
+{
+    display: inline;
+    color: aliceblue;
+    font-size: 20px;
+    margin-left: 290px
+}
+.header h1
+{
+    color: floralwhite;
+    font-size: 35px;
+    display: inline;
+    margin: 10px;
+}
+.header input
+{
+    padding: 5px;
+    margin-left: 150px;
+    background-color: lightgray;
+    border-radius: 20px
+}
+.header button
+{
+    background-color: lightgray;
+    border-radius: 20px;
+}
+.header button:hover
+{
+    background-color: dimgray;
+    border: 0px
+}
+.header a
+{
+    color: lightpink;
+    font-size: 15px;
+    font-family: cursive;
+}
+.header a:hover
+{
+    color: mediumvioletred;
+}
+/*****************************************************************************************/
+.body
+{
+    background-color: darkgray;
+    font-size: 25px
+}
+.body table
+{
+    padding: 10 0 0 20px;
+}
+.body p
+{
+    font-size: 20px;
+    color: brown;
+    padding: 10px;
+    word-spacing: 5px
+}
+.body img
+{
+    margin: 10px
+}
+.body img:hover
+{
+    filter:saturate(200%)
+}
+.body button
+{
+    margin-left: 20px;
+    padding: 5px;
+    text-decoration: none;
+    background-color: #d9d9d9
+}
+.body button:hover
+{
+    background-color: gray;
+    border: 0px
+}
+.body button a
+{
+    text-decoration: none;
+}
+/*****************************************************************************************/
+.more
+{
+    background: #babfba;
+    text-align: center;   
+    padding: 8px
+}
+.more:hover
+{
+    background-color: antiquewhite
+}
+.more a
+{
+    color: #595959;
+    font-size: 20px;
+    text-decoration: none;
+}
+.more a:hover
+{
+    background-color: tan;
+    color: lightcyan;
+    padding: 5px;
+}
+/*****************************************************************************************/
+.tail
+{
+    background-color: black;
+    padding: 10px;
+    font-family: cursive;
+    font-size: 20px;
+    color: gray;
+}
